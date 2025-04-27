@@ -1,4 +1,4 @@
-# OpenCTI
+# OpenCTI _ WIP
 
 OPENCTI_VERSION=<opencti_version>
 ABUSEIPDB_API_KEY=<your_api_key_here>
